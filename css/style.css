@@ -12,7 +12,8 @@ header,section,article,aside,footer{
 aside{
     float: left; width: 470px;
     min-height: 480px;
-    background: url(logo.png) center top no-repeat;
+    background: url(../imagenes/logo.png) center top no-repeat;
+    background-size: contain;
     margin: 0 0 20px 0;
 }
 
